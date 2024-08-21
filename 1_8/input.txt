@@ -1,0 +1,7 @@
+Ceci est un exemple de texte.
+Mon adresse e-mail est : exemple@email.com
+N'hésitez pas à me contacter si vous avez des questions.
+test@example.com
+
+Cordialement,
+[Votre nom]
